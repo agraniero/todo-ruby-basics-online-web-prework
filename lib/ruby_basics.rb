@@ -2,7 +2,7 @@ def division(num1, num2)
  return num1 / num2
 end
 
-def assign_variable(name)
+def assign_variable(value)
   name = very_able
   puts very_able
 end
