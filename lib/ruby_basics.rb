@@ -14,7 +14,7 @@ def greeting(complaint1, complaint2)
 end
 
 def return_a_value
-
+  return "Nice"
 end
 
 def last_evaluated_value
