@@ -4,6 +4,7 @@ end
 
 def assign_variable(name)
   name = very_able
+  puts very_able
 end
 
 def argue
