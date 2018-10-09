@@ -10,8 +10,7 @@ def argue(what_is_to_be_returned)
   return what_is_to_be_returned
 end
 
-def greeting
-
+def greeting(complaint1, complaint2)
 end
 
 def return_a_value
